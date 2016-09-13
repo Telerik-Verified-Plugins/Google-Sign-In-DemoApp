@@ -52,25 +52,18 @@
         data-model="app.demoService.viewModel">
 
         <div class="demo">
-            <h3>TODO ..</h3>
-          	<button data-role="button" class="button" data-bind="click: initGeo">Init</button>
+            <h3>Logging in</h3>
+          	<button data-role="button" class="button" data-bind="click: login">Login</button>
+          	<button data-role="button" class="button" data-bind="click: trySilentLogin">Try silent login (works until you call logout)</button>
 
-            <h3 class="hassubtitle">Geofence my position (enter or leave)</h3>
-          	<div class="subtitle">
-              Whenever you enter of leave a geofenced area you will received a message.
-              When the app is not in the foreground a message will show up in the notification center.
-            </div>
-            <div class="smallbuttons">
-	            <button data-role="button" class="button" data-bind="click: monitorEnterLeave20m">Within 20 m</button>
-	            <button data-role="button" class="button" data-bind="click: monitorEnterLeave500m">Within 500 m</button>
-	          </div>
-
-          	<h3>Stop monitoring</h3>
-            <div class="smallbuttons">
-	            <button data-role="button" class="button" data-bind="click: remove20m">Remove 20 m</button>
-	            <button data-role="button" class="button" data-bind="click: remove500m">Remove 500 m</button>
-	          </div>
-	          <button data-role="button" class="button" data-bind="click: removeAll">Remove all</button>
+          	<h3>Logging out</h3>
+	          <button data-role="button" class="button" data-bind="click: logout">Logout</button>
+	          <button data-role="button" class="button" data-bind="click: disconnect">Disconnect</button>
+          
+            <p id="feedback">not logged in</p>
+	          <p>
+              <img id="image" src="" />
+          </p>
 			</div>
     </div>
 
