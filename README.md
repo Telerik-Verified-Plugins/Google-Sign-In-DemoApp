@@ -21,23 +21,17 @@ This sample app shows you how to add Google Sign-In capabilities to your app usi
 
 # Screenshots
 
-### Skins
-
-Native | Flat
---- | ---
-![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%203.png) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%202.png)
-
-### System notifications
+### Login OAuth
 
 Android | iOS
 --- | ---
-![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%204.png) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/ios/iOS%20screenshot%203.PNG)
+![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%201.png) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/ios/iOS%20screenshot%201.PNG)
 
-### In-App notifications
+### Logged in
 
 Android | iOS
 --- | --- | ---
-![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%205.png) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/ios/iOS%20screenshot%204.PNG)
+![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%202.png) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/ios/iOS%20screenshot%202.PNG)
 
 [Back to Top](#top)
 
