@@ -29,6 +29,7 @@
     "cordova-plugin-console",
     "cordova-plugin-device",
     "cordova-plugin-dialogs",
+    "cordova-plugin-googleplus@5.0.3",
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar",
     "cordova-plugin-whitelist"
