@@ -35,7 +35,7 @@
     "cordova-plugin-whitelist"
   ],
   "WP8WindowsPublisherName": "CN=Telerik",
-  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.geofencing",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.googlesignin",
   "WP8PublisherID": "{0676dd8c-9f39-419f-b4dd-ac8d63b1c0e1}",
   "WP8ProductID": "{d5438857-c709-4b1d-bebc-b6040126f930}",
   "iOSDeploymentTarget": "7.0",
