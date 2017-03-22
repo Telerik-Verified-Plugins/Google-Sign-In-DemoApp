@@ -4,7 +4,7 @@ page_title: Google Sign-In | Telerik Verified Plugin Sample | Telerik Platform
 description: This sample app shows you how to add Google Sign-In capabilities to your app using the Google Sign-In plugin from the Telerik Verified Plugins Marketplace.
 publish: true
 content_filter: true
-tags: verified plugin
+tags: verified plugin, social login
 apis: appbuilder.simulator cordova.splashscreen cordova.events cordova.dialogs cordova.localStorage kendo.application kendo.application.skin kendo.observableObject kendo.view kendo.button kendo.navBar kendo.layout kendo.tabStrip verified.google-sign-in google-sign-in.login
 related_resources:
 - "[The Google Sign-In Plugin](http://plugins.telerik.com/cordova/plugin/google-sign-in)"
