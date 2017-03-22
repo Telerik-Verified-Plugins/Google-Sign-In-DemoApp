@@ -13,11 +13,10 @@ Google Sign-In
 
 This sample app shows you how to add Google Sign-In capabilities to your app using the Google Sign-In plugin from the [Telerik Verified Plugins Marketplace][marketplace].
 
-> *Supported mobile platforms:* iOS, Android
->
-> *Developed with:* Apache Cordova 4.0.0, Kendo UI Core 2015.3.1023
+*Supported mobile platforms:* iOS, Android
 
-[Back to Top](#top)
+*Developed with:* Apache Cordova 4.0.0, Kendo UI Core 2015.3.1023
+
 
 # Screenshots
 
@@ -33,7 +32,6 @@ Android | iOS
 --- | --- | ---
 ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/android/Android%20screenshot%202.png) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Google-Sign-In-DemoApp/master/screenshots/ios/iOS%20screenshot%202.PNG)
 
-[Back to Top](#top)
 
 # Test the Sample
 
@@ -52,7 +50,6 @@ With the AppBuilder in-browser client, you can develop hybrid and NativeScript c
 
 * [Deploy on device via QR code.][QR code]
 
-[Back to Top](#top)
 
 ## Universal
 
@@ -75,7 +72,6 @@ A new app is added in your Telerik Platform account and all files are checked in
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
 
-[Back to Top](#top)
 
 ## Windows
 
@@ -101,7 +97,6 @@ With the AppBuilder Windows client, you can quickly test your apps on device, in
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
 
-[Back to Top](#top)
 
 ## Visual Studio
 
@@ -125,7 +120,6 @@ With the AppBuilder extension for Visual Studio, you can quickly test your apps 
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
 
-[Back to Top](#top)
 
 ## CLI
 
@@ -146,7 +140,6 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
 
-[Back to Top](#top)
 
 # Limitations
 
